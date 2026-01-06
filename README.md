@@ -1,2 +1,15 @@
-# File-Upload-Preview-App-Image-Validation-
-Image upload করে instant preview দেখা + file validation
+# File Upload Preview App
+
+Image upload preview with validation.
+
+## Features
+- Image-only upload
+- File size validation
+- Instant preview
+- Browser-based
+
+## Run
+Open `index.html` in browser.
+
+## Purpose
+Frontend file handling demo for GitHub portfolio.
